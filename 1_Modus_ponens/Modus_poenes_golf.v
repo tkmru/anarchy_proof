@@ -1,0 +1,1 @@
+Let Modus_ponens P Q H:P->Q:=H.
